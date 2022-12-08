@@ -1,6 +1,8 @@
 # Clipboard Translator
 A simple Python program that translates text on the clipboard when a hotkey is pressed.
 
+!WARNING! This project fully created by ChatGPT from Open.AI.
+
 ## Installation
 To install the necessary Python packages for this program, run the following command:
 
